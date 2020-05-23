@@ -1,6 +1,6 @@
 # NASA Astronomy Picture of the Day Scraper
 
-I found out about the APOD website and knew that I want to have these jaw dropping images on my machine for wallpapers. To add a nice spin to it, I decided to use Python asyncIO. 
+I found out about the <a href="https://apod.nasa.gov/apod/astropix.html">APOD</a> website and knew that I want to have these jaw dropping images on my machine for wallpapers. To add a nice spin to it, I decided to use Python asyncIO. 
 
 There's nothing special about this scraper, I just like looking at astronomy pictures, and this is a nice way to get 1000s of wallpapers ready for everyday. 
 
