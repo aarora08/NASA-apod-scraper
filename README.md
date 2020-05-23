@@ -37,7 +37,9 @@ cd ~/nasa-apod-scraper/
 python -m scraper fetch-failed --data-dir local/data --logs-from local/logs/v1 --run-version v2
 ```
 
+Here are a few that I liked:
 
+<img src="https://github.com/aarora08/nasa-apod-scraper/blob/master/static/A_View_Toward_M106.jpg" width="45%"></img> <img src="https://github.com/aarora08/nasa-apod-scraper/blob/master/static/Moon,_Mars,_Saturn,_Jupiter,_Milky_Way__.jpg" width="45%"></img> <img src="https://github.com/aarora08/nasa-apod-scraper/blob/master/static/The_Dark_River_to_Antares.jpg" width="45%"></img> <img src="https://github.com/aarora08/nasa-apod-scraper/blob/master/static/Galaxy_Wars:_M81_and_M82.jpg" width="45%"></img> 
 
 ## Contributing
 
