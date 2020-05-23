@@ -31,8 +31,8 @@ cd ~/nasa-apod-scraper/
 python -m scraper fetch --data-dir local/data --log-dir local/logs --start-date 2020-05-01 --end-date 2020-05-22
 ```
 
-```
-### running failed urls
+```bash
+# running failed urls
 cd ~/nasa-apod-scraper/
 python -m scraper fetch-failed --data-dir local/data --logs-from local/logs/v1 --run-version v2
 ```
